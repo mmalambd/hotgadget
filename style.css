@@ -1,0 +1,76 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(45deg, #1b1919, black);
+    color: white;
+    font-size: 20px; 
+    border: none;
+    border-radius: 10px;
+    padding: 10px 25px;
+    background-position-y: 0px;
+}
+
+.card-text{
+    text-align: justify;
+}
+.price{
+    text-align: center;
+    margin-top: 20px;
+}
+.card h5{
+    text-align: center;     
+}
+.card-footer{
+    text-align: center;
+}
+
+.phone{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.phone h4{
+    color: orangered;
+    font-size: 15px;
+}
+
+.phone h1{
+    font-size: 30px;
+}
+.smartphone{
+    padding: 20px 40px;
+    margin-top: 40px;
+}
+
+.Laptop{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.cat1{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 15px 15px 30px lightgrey;
+}
+.cat2{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 15px 15px 30px lightgrey;
+    padding-top: 10px;    
+}
+
+.cat3{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 15px 15px 30px lightgrey;
+    margin-top: 20px;
+}
+
+.line{
+    line-clamp: darkgoldenrod;
+    width: 25%;
+    line-height: 600px;
+    list-style: ;
+    
+}
